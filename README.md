@@ -1,1 +1,1 @@
-# javaScript_Assignment-1
+# COMP 690, Module 2, assignment 1
